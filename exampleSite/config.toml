@@ -3,15 +3,15 @@ languageCode = "en-us"
 paginate = 4
 summaryLength = "10"
 theme = "thomson-hugo"
-title = "Thomson-Minimal Hugo Portfolio Temaplate"
+title = "DAOSquare"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "JOIN US"
-weight = 1
+weight = 3
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "themefisher"
