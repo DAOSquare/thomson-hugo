@@ -1,11 +1,11 @@
 ---
-title: Colorwav
-image: images/portfolio/Colorwav.png
+title: MetaGame
+image: images/portfolio/MetaGame.png
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "ecosystem"
-project_url: "#"
+category: "family"
+project_url: https://examplesite.org
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia. Commodi suscipit obcaecati et, aperiam quas vero quo, labore tempore.

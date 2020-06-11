@@ -1,10 +1,10 @@
 ---
 title: MetaCartel Ventrues China
-image: images/portfolio/MolochDAO.png
+image: images/portfolio/MetaCartel.png
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "ecosystem"
+category: "family"
 project_url: https://examplesite.org
 
 ---

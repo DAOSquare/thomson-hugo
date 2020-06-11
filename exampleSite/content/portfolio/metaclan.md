@@ -1,10 +1,10 @@
 ---
-title: Colorwav
-image: images/portfolio/Colorwav.png
+title: MetaClan
+image: images/portfolio/MetaClan.png
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "ecosystem"
+category: family
 project_url: "#"
 
 ---

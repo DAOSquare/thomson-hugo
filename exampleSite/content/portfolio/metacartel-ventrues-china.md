@@ -1,6 +1,6 @@
 ---
 title: MetaCartel Ventrues China
-image: images/portfolio/bottle.jpg
+image: images/portfolio/MCVC.png
 client: Thomson
 year: "2019"
 description: This is meta description.
