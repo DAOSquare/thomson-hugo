@@ -20,9 +20,9 @@ service:
   - name: Community
     icon: ti-layout
     content: 'Help more people to join crypto space, and creat value. '
-  - name: Digital Marketing
+  - name: For-profit DAO
     icon: ti-announcement
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
+    content: 'Realize DAOs’s commercialize. '
   - name: Graphics Design
     icon: ti-layers
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
