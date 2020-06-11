@@ -4,8 +4,7 @@ image: images/portfolio/bottle.jpg
 client: Thomson
 year: "2019"
 description: This is meta description.
-category:
-- ECOSYSTEM
+category: "design"
 project_url: https://examplesite.org
 
 ---
