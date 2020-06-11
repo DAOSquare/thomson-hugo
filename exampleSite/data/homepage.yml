@@ -17,13 +17,13 @@ service:
   content: If you want to go fast, go alone. If you want to go far, go together.
   service_item:
   - name: Community
-    icon: ti-layout
+    icon: ti-infinite
     content: 'Help more people to join crypto space, and creat value. '
   - name: For-profit DAO
-    icon: ti-announcement
+    icon: ti-stats-up
     content: 'Realize DAOs’s commercialize. '
   - name: Incubator
-    icon: ti-layers
+    icon: ti-rocket
     content: Help more people use DAO/community-driven organizations to launch their
       personal brands, businesses, and any valuable things in crypto space, and support
       their growth.
