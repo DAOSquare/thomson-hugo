@@ -13,9 +13,8 @@ portfolio:
   enable: true
 service:
   enable: true
-  title: Core Services.
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus,
-    totam ipsa quia hic odit a sit laboriosam voluptatem in, blanditiis.
+  title: About DAOSquare
+  content: If you want to go fast, go alone. If you want to go far, go together.
   service_item:
   - name: Community
     icon: ti-layout
