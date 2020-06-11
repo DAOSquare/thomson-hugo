@@ -1,10 +1,10 @@
 ---
-title: Painting
+title: Media of DAOSquare
 image: images/portfolio/bag.jpg
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "ecosystem"
+category: ecosystem
 project_url: "#"
 
 ---
