@@ -4,7 +4,7 @@ image: images/portfolio/m-3.jpg
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "design"
+category: "ECOSYSTEM"
 project_url: "#"
 
 ---
