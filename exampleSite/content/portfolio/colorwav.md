@@ -1,10 +1,10 @@
 ---
-title: Portfolio
+title: Colorwav
 image: images/portfolio/m-3.jpg
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "family"
+category: "ecosystem"
 project_url: "#"
 
 ---
