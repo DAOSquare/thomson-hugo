@@ -23,6 +23,8 @@ service:
   - name: For-profit DAO
     icon: ti-announcement
     content: 'Realize DAOs’s commercialize. '
-  - name: Graphics Design
+  - name: Incubator
     icon: ti-layers
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
+    content: Help more people use DAO/community-driven organizations to launch their
+      personal brands, businesses, and any valuable things in crypto space, and support
+      their growth.
