@@ -17,21 +17,12 @@ service:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus,
     totam ipsa quia hic odit a sit laboriosam voluptatem in, blanditiis.
   service_item:
-  - name: Web Development
+  - name: Community
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
+    content: 'Help more people to join crypto space, and creat value. '
   - name: Digital Marketing
     icon: ti-announcement
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
   - name: Graphics Design
     icon: ti-layers
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
-  - name: Branding Design
-    icon: ti-anchor
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
-  - name: Video Marketing
-    icon: ti-video-camera
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
-  - name: App Design
-    icon: ti-android
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum.
