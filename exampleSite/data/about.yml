@@ -35,20 +35,20 @@ experience:
       projects, teams, and people.
 skill:
   enable: true
-  title: My skills.
+  title: Our Lego blocks.
   skillbar:
-  - name: Business Strategy
-    percentage: 80%
-  - name: Design
+  - name: Writer
+    percentage: 92%
+  - name: Developer
+    percentage: 86%
+  - name: Artist
     percentage: 90%
-  - name: Digital Strategy
-    percentage: 75%
-  - name: Development
-    percentage: 85%
+  - name: Other
+    percentage: 87%
 cta:
   enable: true
-  title: Want to discuss about any project?
+  title: Big shout "Join" in our community
   button:
     enable: true
-    label: contact me
-    link: contact
+    label: JOIN US
+    link: https://discord.com/invite/wtgQN5C
