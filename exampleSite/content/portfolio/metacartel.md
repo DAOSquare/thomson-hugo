@@ -1,7 +1,7 @@
 ---
-title: MetaCartel Ventrues China
+title: MetaCartel
 image: images/portfolio/MetaCartel.png
-client: Thomson
+Summoner: Thomson
 year: "2019"
 description: This is meta description.
 category: "family"
