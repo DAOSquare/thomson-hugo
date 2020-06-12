@@ -54,3 +54,10 @@
 .mb-0 a{
     color: #818385;
 }
+.dao-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
