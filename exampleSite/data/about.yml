@@ -1,7 +1,7 @@
 ---
 author:
   enable: true
-  image: images/about-img.jpg
+  image: "/images/about-img.png"
   name: Join us
   bio: All great innovation and social progress are born of madness.
   content: We are mad guys, we are doing madness things. If you want to join us, please
