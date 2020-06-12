@@ -54,3 +54,8 @@
 .mb-0 a{
     color: #818385;
 }
+.introduct col-lg-8{
+  float: none;
+  display: block;
+  margin: 0 auto;
+}
