@@ -61,11 +61,11 @@ preloader = ""
 icon = "ti-twitter-alt"
 link = "https://twitter.com/DAOSquare"
 [[params.social]]
-icon = "ti-facebook"
+icon = "ti-paragraph"
 link = "https://dao2.io"
 [[params.social]]
-icon = "ti-instagram"
-link = "#"
+icon = "ti-infinite"
+link = "https://discord.com/invite/wtgQN5C "
 [[params.social]]
-icon = "ti-dribbble"
-link = "#"
+icon = "ti-control-record"
+link = "https://pokemol.com/dao/0x1ba850cb53280d7f9987be283ff462038ec8abe2/ "
