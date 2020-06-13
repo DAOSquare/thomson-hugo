@@ -4,8 +4,8 @@ image: images/portfolio/DAOHaus.png
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "family"
-project_url: https://examplesite.org
+category: family
+project_url: https://daohaus.club
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia. Commodi suscipit obcaecati et, aperiam quas vero quo, labore tempore.
