@@ -18,12 +18,10 @@ service:
   service_item:
   - name: Community
     icon: ti-infinite
-    content: 'Help more people to join crypto space, and creat value. '
+    content: 'DAOSquare is a real crypto community, we are helping more people to understand and join crypto space, and creat personal value and social value together. '
   - name: For-profit DAO
     icon: ti-stats-up
-    content: 'Realize DAOs’s commercialize. '
+    content: 'We are realizing DAOs’s commercialize. Let more people see the feasibility of DAO, and promote mass adoption in DAO.'
   - name: Incubator
     icon: ti-rocket
-    content: Help more people use DAO/community-driven organizations to launch their
-      personal brands, businesses, and any valuable things in crypto space, and support
-      their growth.
+    content: 'We are helping more people use DAO/community-driven organizations to launch their brands, businesses, and any valuable things, and support their growth.'

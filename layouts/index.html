@@ -51,34 +51,6 @@
 {{ end }}
 {{ end }}
 <!-- service end -->
-<!-- Service start -->
-{{ if .Site.Data.homepage.service.enable }}
-{{ with .Site.Data.homepage.service }}
-<section class="section service-home border-top">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6">
-        <h2 class="mb-2 ">{{ .title | markdownify }}</h2>
-        <p class="mb-5">{{ .content | markdownify }}</p>
-      </div>
-    </div>
-
-    <div class="row">
-      {{ range .service_item }}
-      <div class="col-lg-4">
-        <div class="service-item mb-5">
-          <i class="{{ .icon }}"></i>
-          <h4 class="my-3">{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- service end -->
 <!-- Introduct start -->
 <section class="section introduct  border-top">
   <div class="container">
@@ -95,10 +67,13 @@
 <!-- Introduct end -->
 <!-- Portfolio start -->
 {{ if .Site.Data.homepage.portfolio.enable }}
-<section class="portfolio">
+<section class="section portfolio border-top">
   <div class="container">
     <div class="row mb-5">
       <div class="col-10">
+        <h2 class="mb-2 ">DAOSquare Community DAO</h2>
+        <p class="mb-5">DAOSquare Community DAO (DCD) is a governance organization of DAOSquare<br>You can check the detailed introduction in our BLOG.
+        </p>
         <div class="btn-group btn-group-toggle " data-toggle="buttons">
           <label class="btn active ">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
