@@ -4,8 +4,8 @@ image: images/portfolio/Colorwav.png
 client: Thomson
 year: "2019"
 description: This is meta description.
-category: "ecosystem"
-project_url: "#"
+category: ecosystem
+project_url: https://colorwav.network
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eligendi fugiat ad cupiditate hic, eum debitis ipsum, quos non mollitia. Commodi suscipit obcaecati et, aperiam quas vero quo, labore tempore.
