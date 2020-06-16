@@ -1,6 +1,6 @@
 {{ define "main" }}
 <!-- music -->
-<audio src="/Hope (MusicByTypto).mp3" autoplay></audio>
+<embed src="/Hope (MusicByTypto).mp3" loop="true" autostart="true" width="0" height="0">
 <!-- Banner Start -->
 {{ if .Site.Data.homepage.banner.enable }}
 {{ with .Site.Data.homepage.banner }}
@@ -114,5 +114,12 @@
   </div>
 </section>
 {{ end }}
-<!-- Portfolio End -->
 {{ end }}
+<!-- Portfolio End -->
+<section class="quote">
+  <div class="container">
+      <div class="col-10">
+        <h2 class="text-center ">"If you want to go fast, go alone. If you want to go far, go together"</h2>
+      </div>
+  </div>
+</section>
