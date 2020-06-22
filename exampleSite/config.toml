@@ -5,13 +5,13 @@ summaryLength = "10"
 theme = "thomson-hugo"
 title = "DAOSquare"
 [[menu.main]]
+URL = "blog"
+name = "News"
+weight = 2
+[[menu.main]]
 URL = "about"
 name = "JOIN US"
 weight = 1
-[[menu.main]]
-URL = "blog"
-name = "NEWS"
-weight = 2
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "themefisher"
