@@ -3,7 +3,8 @@ title: Odyssy
 image: images/portfolio/Odyssy.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: 'Decentralized collective pushing full stack Design & Development to
+  the #Blockchain for humans. @nowdaoit@gittron_@molochdao@meta_cartel'
 category: family
 project_url: https://odyssy.io/
 
