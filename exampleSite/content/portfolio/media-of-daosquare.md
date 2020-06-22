@@ -3,7 +3,7 @@ title: Media of DAOSquare
 image: images/portfolio/MediaOfDAOSquare.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Value media · DAO · Ethereum · Crypto
 category: ecosystem
 project_url: https://dao2.io
 
