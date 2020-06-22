@@ -3,8 +3,7 @@ title: MetaClan
 image: images/portfolio/MetaClan.png
 client: Thomson
 year: "2019"
-description: Decentralized collective pushing full stack Design & Development to the
-  Blockchain for humans. @nowdaoit@gittron_@molochdao@meta_cartel
+description: Crypto native eSports DAO.
 category: family
 project_url: https://twitter.com/MetaClanDAO
 
