@@ -3,7 +3,8 @@ title: MolochDAO
 image: images/portfolio/MolochDAO.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: A community DAO focused on funding Ethereum development, in the name
+  of Moloch the God of Coordination Failure.
 category: family
 project_url: https://molochdao.com
 
