@@ -1,4 +1,4 @@
-baseURL = "https://www.daosquare.io/"
+baseURL = "https://daosquare.netlify.app/"
 languageCode = "en-us"
 paginate = 4
 summaryLength = "10"
