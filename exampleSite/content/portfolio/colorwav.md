@@ -3,7 +3,7 @@ title: Colorwav
 image: images/portfolio/Colorwav.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Take NFT some color...
 category: ecosystem
 project_url: https://colorwav.network
 
