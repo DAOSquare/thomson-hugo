@@ -3,7 +3,7 @@ title: MetaCartel
 image: images/portfolio/MetaCartel.png
 Summoner: Thomson
 year: "2019"
-description: This is meta description.
+description: DAO Incubator.
 category: family
 project_url: https://metacartel.org
 
