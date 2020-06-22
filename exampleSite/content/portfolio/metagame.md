@@ -3,7 +3,8 @@ title: MetaGame
 image: images/portfolio/MetaGame.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: A quest to redesign society. The intersection of art & technology, work
+  & play.
 category: family
 project_url: https://metagame.wtf/
 
