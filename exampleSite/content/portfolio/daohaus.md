@@ -3,7 +3,8 @@ title: DAOHaus
 image: images/portfolio/DAOHaus.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: We've built the easiest way to find, join, launch & manage Moloch DAOs;
+  even works on mobile! Now DAO it.
 category: family
 project_url: https://daohaus.club
 
