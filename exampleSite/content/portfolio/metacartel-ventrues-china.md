@@ -3,7 +3,7 @@ title: MetaCartel Ventrues China
 image: images/portfolio/MCVC.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Fork MetaCartel Ventures, The DAO-Driven VC focus on pre-seed round startups.
 category: ecosystem
 project_url: https://vc.daosquare.io
 
