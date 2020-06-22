@@ -3,7 +3,7 @@ title: meTokens
 image: images/portfolio/meTokens.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: 'Tokenize yourself. Promote your token with the hashtag #StakeOnMe'
 category: family
 project_url: https://stakeonme.com/
 
