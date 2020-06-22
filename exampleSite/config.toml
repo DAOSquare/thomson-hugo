@@ -10,7 +10,7 @@ name = "JOIN US"
 weight = 1
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "NEWS"
 weight = 2
 [params]
 address = "125/A, CA Commercial Area, California, USA"
