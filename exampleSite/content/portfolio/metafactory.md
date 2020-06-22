@@ -3,7 +3,8 @@ title: MetaFactory
 image: images/portfolio/MetaFactory.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Inclusively Exclusive. Collective Creation. A factory for decentralized
+  brand economies + digiphysical goods.
 category: family
 project_url: https://metafactory.ai/
 
