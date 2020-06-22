@@ -3,7 +3,8 @@ title: RaidGuild
 image: images/portfolio/RaidGuild.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: A Decentralized Collective of Mercenaries Ready to Slay Your Web3 Product
+  Demons @meta_cartel@molochDAO@nowdaoit@pocketmoloch
 category: family
 project_url: https://raidguild.org/
 
