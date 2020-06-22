@@ -3,7 +3,7 @@ title: IOSG Ventrues
 image: images/portfolio/IOSG Ventures.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Community vs Thesis Driven Investing.
 category: family
 project_url: https://iosg.vc
 
