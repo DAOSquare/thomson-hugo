@@ -3,7 +3,7 @@ title: DeFi Arts Intelligencer
 image: images/portfolio/DeFi Arts Intelligencer.png
 client: Thomson
 year: "2019"
-description: This is meta description.
+description: Super great DeFi & Arts weeklly in Ethereum ecosystem.
 category: family
 project_url: https://twitter.com/WPeaster
 
